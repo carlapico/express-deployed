@@ -36,6 +36,10 @@ app.get*('/test', testApi)
 ```
 firebase emulators:start
 ```
+- make edits on the firebase emulators once you type it in the command line
+- use that info to write it in the firebase.json file after hosting. 
+- change the port number and host 
+
 
 ## Deploy 
 ```
