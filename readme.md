@@ -17,6 +17,8 @@ firebase init function
 ```
 - select defaults 
 
+## Create SRC folder in the functions folder
+
 ## Install Express 
 ```
 npm i express cors
